@@ -1,0 +1,7 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_logo","order":1,"path":"objects/obj_logo/obj_logo.yy",},
+    {"name":"spr_logo","order":1,"path":"sprites/spr_logo/spr_logo.yy",},
+  ],
+}
